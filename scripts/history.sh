@@ -1,1 +1,0 @@
-while true; do php history.php; sleep .5; done
